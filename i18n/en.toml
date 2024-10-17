@@ -1,70 +1,72 @@
 [address]
   other = "Address"
 [designed_by]
-  other = "Designed by  <a href = '{{ .url }}' title = 'Linkedin Profile'>{{ .name }}</a>"
+  other = "Diseñado por  <a href = '{{ .url }}' title = 'Perfil de Linkedin'>{{ .name }}</a>"
 [copy]
-  other = "Copy"
+  other = "Copiar"
 [scan]
   other = "Scan"
 [link_copied]
-  other = "Copied"
+  other = "Copiado"
 [written_by]
-  other = "Written by"
+  other = "Escrito por"
+[author_profile]
+  other = "Perfil de {{ . }}"
 [btnReset]
-  other = "Reset"
+  other = "Resetear"
 [btnSubmit]
-  other = "Submit"
+  other = "Enviar"
 [btnSubmitted]
-  other = "Submitted"
+  other = "Enviado"
 [comment]
-  other = "Comment"
+  other = "Commentario"
 [noComment]
-  other = "No comment"
+  other = "Sin comentario"
 [email]
   other = "Email"
 [name]
-  other = "Name"
+  other = "Nombre"
 [typeInComment]
-  other = "Type in a comment..."
+  other = "Error en un comentario..."
 [moreDay]
-  other = "DAYS"
+  other = "DÍAS"
 [moreHr]
-  other = "HRS"
+  other = "HORAS"
 [moreMin]
-  other = "MINS"
+  other = "MINUTOS"
 [moreMonth]
-  other = "MONTHS"
+  other = "MESES"
 [moreWk]
-  other = "WKS"
+  other = "SEMANAS"
 [moreYr]
-  other = "YRS"
+  other = "AÑOS"
 [oneDay]
-  other = "DAY"
+  other = "DÍA"
 [oneHr]
-  other = "HR"
+  other = "HORA"
 [oneMin]
-  other = "MIN"
+  other = "MINUTO"
 [oneMonth]
-  other = "MONTH"
+  other = "MES"
 [oneWk]
-  other = "WK"
+  other = "SEMANA"
 [oneYr]
-  other = "YR"
+  other = "AÑO"
 [timeAgoStr]
-  other = "${timeAgo}&nbsp;${timeTag} AGO"
+  other = "HACE ${timeAgo}&nbsp;${timeTag}"
 [close]
-  other = "Close"
+  other = "Cerrar"
 [successTitle]
-  other = "Review submitted"
+  other = "Reseña enviada"
 [successMsg]
-  other = "Thanks for your review! It will be shown on the site once it has been approved."
+  other = "¡Gracias por tu reseña! Será visible en la web cuando haya sido aprobada."
 [errTitle]
   other = "Error"
 [errMsg]
-  other = "Sorry, there was an error with the submission!"
+  other = "¡Lo sentimos, hay un error en el envío!"
 [moreFrom]
-  other = "Más publicaciones"
+  other = "Relacionados"
 [discard]
-  other = "discard"
+  other = "descartar"
 [discardComment]
-  other = "Discard Comment"
+  other = "Descartar Comentario"
